@@ -1,0 +1,332 @@
+[
+  {
+    "country": "India",
+    "countryCode": "IND",
+    "timeline": [
+      {
+        "year": 2017,
+        "value": 813.1
+      },
+      {
+        "year": 2018,
+        "value": 759.2
+      },
+      {
+        "year": 2019,
+        "value": 734.4
+      },
+      {
+        "year": 2020,
+        "value": 788.2
+      },
+      {
+        "year": 2021,
+        "value": 740.6
+      },
+      {
+        "year": 2022,
+        "value": 681.3
+      },
+      {
+        "year": 2023,
+        "value": 619.9
+      },
+      {
+        "year": 2024,
+        "value": 589.2
+      },
+      {
+        "year": 2025,
+        "value": 520.1
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "countryCode": "CHN",
+    "timeline": [
+      {
+        "year": 2017,
+        "value": 406.5
+      },
+      {
+        "year": 2017,
+        "value": 1.9
+      },
+      {
+        "year": 2018,
+        "value": 1.8
+      },
+      {
+        "year": 2018,
+        "value": 353.8
+      },
+      {
+        "year": 2019,
+        "value": 326.1
+      },
+      {
+        "year": 2019,
+        "value": 1.6
+      },
+      {
+        "year": 2020,
+        "value": 1.2
+      },
+      {
+        "year": 2020,
+        "value": 354.1
+      },
+      {
+        "year": 2021,
+        "value": 1.4
+      },
+      {
+        "year": 2021,
+        "value": 236.3
+      },
+      {
+        "year": 2022,
+        "value": 248.3
+      },
+      {
+        "year": 2022,
+        "value": 1.2
+      },
+      {
+        "year": 2023,
+        "value": 1.2
+      },
+      {
+        "year": 2023,
+        "value": 205.9
+      },
+      {
+        "year": 2024,
+        "value": 183.1
+      },
+      {
+        "year": 2024,
+        "value": 1.0
+      },
+      {
+        "year": 2025,
+        "value": 160.4
+      },
+      {
+        "year": 2025,
+        "value": 0.9
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "countryCode": "NGA",
+    "timeline": [
+      {
+        "year": 2017,
+        "value": 137.5
+      },
+      {
+        "year": 2018,
+        "value": 142.4
+      },
+      {
+        "year": 2019,
+        "value": 146.9
+      },
+      {
+        "year": 2020,
+        "value": 162.3
+      },
+      {
+        "year": 2021,
+        "value": 171.6
+      },
+      {
+        "year": 2022,
+        "value": 177.8
+      },
+      {
+        "year": 2023,
+        "value": 184.3
+      },
+      {
+        "year": 2024,
+        "value": 189.8
+      },
+      {
+        "year": 2025,
+        "value": 191.2
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "countryCode": "PAK",
+    "timeline": [
+      {
+        "year": 2017,
+        "value": 132.4
+      },
+      {
+        "year": 2018,
+        "value": 131.6
+      },
+      {
+        "year": 2019,
+        "value": 137.7
+      },
+      {
+        "year": 2020,
+        "value": 145.9
+      },
+      {
+        "year": 2021,
+        "value": 150.0
+      },
+      {
+        "year": 2022,
+        "value": 157.2
+      },
+      {
+        "year": 2023,
+        "value": 166.3
+      },
+      {
+        "year": 2024,
+        "value": 161.7
+      },
+      {
+        "year": 2025,
+        "value": 160.7
+      }
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "countryCode": "BGD",
+    "timeline": [
+      {
+        "year": 2017,
+        "value": 101.8
+      },
+      {
+        "year": 2018,
+        "value": 95.6
+      },
+      {
+        "year": 2019,
+        "value": 90.8
+      },
+      {
+        "year": 2020,
+        "value": 85.9
+      },
+      {
+        "year": 2021,
+        "value": 79.2
+      },
+      {
+        "year": 2022,
+        "value": 73.4
+      },
+      {
+        "year": 2023,
+        "value": 71.1
+      },
+      {
+        "year": 2024,
+        "value": 70.0
+      },
+      {
+        "year": 2025,
+        "value": 67.8
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "countryCode": "USA",
+    "timeline": [
+      {
+        "year": 2017,
+        "value": 19.3
+      },
+      {
+        "year": 2018,
+        "value": 17.9
+      },
+      {
+        "year": 2019,
+        "value": 15.9
+      },
+      {
+        "year": 2020,
+        "value": 12.7
+      },
+      {
+        "year": 2021,
+        "value": 9.9
+      },
+      {
+        "year": 2022,
+        "value": 18.3
+      },
+      {
+        "year": 2023,
+        "value": 17.7
+      },
+      {
+        "year": 2024,
+        "value": 16.0
+      },
+      {
+        "year": 2025,
+        "value": 15.7
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "countryCode": "DEU",
+    "timeline": [
+      {
+        "year": 2017,
+        "value": 2.3
+      },
+      {
+        "year": 2018,
+        "value": 2.0
+      },
+      {
+        "year": 2019,
+        "value": 2.2
+      },
+      {
+        "year": 2020,
+        "value": 2.1
+      },
+      {
+        "year": 2021,
+        "value": 3.0
+      },
+      {
+        "year": 2022,
+        "value": 4.2
+      },
+      {
+        "year": 2023,
+        "value": 4.4
+      },
+      {
+        "year": 2024,
+        "value": 4.5
+      },
+      {
+        "year": 2025,
+        "value": 4.5
+      }
+    ]
+  }
+]

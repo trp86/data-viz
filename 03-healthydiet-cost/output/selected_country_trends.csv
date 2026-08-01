@@ -1,0 +1,73 @@
+Country,Country_Code,Year,Value_Millions
+India,IND,2017.0,813.1
+India,IND,2018.0,759.2
+India,IND,2019.0,734.4
+India,IND,2020.0,788.2
+India,IND,2021.0,740.6
+India,IND,2022.0,681.3
+India,IND,2023.0,619.9
+India,IND,2024.0,589.2
+India,IND,2025.0,520.1
+China,CHN,2017.0,406.5
+China,CHN,2017.0,1.9
+China,CHN,2018.0,1.8
+China,CHN,2018.0,353.8
+China,CHN,2019.0,326.1
+China,CHN,2019.0,1.6
+China,CHN,2020.0,1.2
+China,CHN,2020.0,354.1
+China,CHN,2021.0,1.4
+China,CHN,2021.0,236.3
+China,CHN,2022.0,248.3
+China,CHN,2022.0,1.2
+China,CHN,2023.0,1.2
+China,CHN,2023.0,205.9
+China,CHN,2024.0,183.1
+China,CHN,2024.0,1.0
+China,CHN,2025.0,160.4
+China,CHN,2025.0,0.9
+Nigeria,NGA,2017.0,137.5
+Nigeria,NGA,2018.0,142.4
+Nigeria,NGA,2019.0,146.9
+Nigeria,NGA,2020.0,162.3
+Nigeria,NGA,2021.0,171.6
+Nigeria,NGA,2022.0,177.8
+Nigeria,NGA,2023.0,184.3
+Nigeria,NGA,2024.0,189.8
+Nigeria,NGA,2025.0,191.2
+Pakistan,PAK,2017.0,132.4
+Pakistan,PAK,2018.0,131.6
+Pakistan,PAK,2019.0,137.7
+Pakistan,PAK,2020.0,145.9
+Pakistan,PAK,2021.0,150.0
+Pakistan,PAK,2022.0,157.2
+Pakistan,PAK,2023.0,166.3
+Pakistan,PAK,2024.0,161.7
+Pakistan,PAK,2025.0,160.7
+Bangladesh,BGD,2017.0,101.8
+Bangladesh,BGD,2018.0,95.6
+Bangladesh,BGD,2019.0,90.8
+Bangladesh,BGD,2020.0,85.9
+Bangladesh,BGD,2021.0,79.2
+Bangladesh,BGD,2022.0,73.4
+Bangladesh,BGD,2023.0,71.1
+Bangladesh,BGD,2024.0,70.0
+Bangladesh,BGD,2025.0,67.8
+United States,USA,2017.0,19.3
+United States,USA,2018.0,17.9
+United States,USA,2019.0,15.9
+United States,USA,2020.0,12.7
+United States,USA,2021.0,9.9
+United States,USA,2022.0,18.3
+United States,USA,2023.0,17.7
+United States,USA,2024.0,16.0
+United States,USA,2025.0,15.7
+Germany,DEU,2017.0,2.3
+Germany,DEU,2018.0,2.0
+Germany,DEU,2019.0,2.2
+Germany,DEU,2020.0,2.1
+Germany,DEU,2021.0,3.0
+Germany,DEU,2022.0,4.2
+Germany,DEU,2023.0,4.4
+Germany,DEU,2024.0,4.5
+Germany,DEU,2025.0,4.5

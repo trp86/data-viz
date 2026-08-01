@@ -1,0 +1,272 @@
+[
+  {
+    "year": 2017,
+    "totalMillions": 2918.7,
+    "totalBillions": 2.92,
+    "countriesCount": 147,
+    "averagePerCountry": 19.86,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 813.1
+      },
+      {
+        "country": "China",
+        "value": 406.5
+      },
+      {
+        "country": "Indonesia",
+        "value": 198.9
+      },
+      {
+        "country": "Nigeria",
+        "value": 137.5
+      },
+      {
+        "country": "Pakistan",
+        "value": 132.4
+      }
+    ],
+    "top5Percentage": 57.85
+  },
+  {
+    "year": 2018,
+    "totalMillions": 2797.4,
+    "totalBillions": 2.8,
+    "countriesCount": 147,
+    "averagePerCountry": 19.03,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 759.2
+      },
+      {
+        "country": "China",
+        "value": 353.8
+      },
+      {
+        "country": "Indonesia",
+        "value": 193.5
+      },
+      {
+        "country": "Nigeria",
+        "value": 142.4
+      },
+      {
+        "country": "Pakistan",
+        "value": 131.6
+      }
+    ],
+    "top5Percentage": 56.5
+  },
+  {
+    "year": 2019,
+    "totalMillions": 2752.7,
+    "totalBillions": 2.75,
+    "countriesCount": 147,
+    "averagePerCountry": 18.73,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 734.4
+      },
+      {
+        "country": "China",
+        "value": 326.1
+      },
+      {
+        "country": "Indonesia",
+        "value": 192.1
+      },
+      {
+        "country": "Nigeria",
+        "value": 146.9
+      },
+      {
+        "country": "Pakistan",
+        "value": 137.7
+      }
+    ],
+    "top5Percentage": 55.84
+  },
+  {
+    "year": 2020,
+    "totalMillions": 2897.6,
+    "totalBillions": 2.9,
+    "countriesCount": 147,
+    "averagePerCountry": 19.71,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 788.2
+      },
+      {
+        "country": "China",
+        "value": 354.1
+      },
+      {
+        "country": "Indonesia",
+        "value": 193.0
+      },
+      {
+        "country": "Nigeria",
+        "value": 162.3
+      },
+      {
+        "country": "Pakistan",
+        "value": 145.9
+      }
+    ],
+    "top5Percentage": 56.72
+  },
+  {
+    "year": 2021,
+    "totalMillions": 2758.1,
+    "totalBillions": 2.76,
+    "countriesCount": 147,
+    "averagePerCountry": 18.76,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 740.6
+      },
+      {
+        "country": "China",
+        "value": 236.3
+      },
+      {
+        "country": "Indonesia",
+        "value": 192.8
+      },
+      {
+        "country": "Nigeria",
+        "value": 171.6
+      },
+      {
+        "country": "Pakistan",
+        "value": 150.0
+      }
+    ],
+    "top5Percentage": 54.07
+  },
+  {
+    "year": 2022,
+    "totalMillions": 2736.7,
+    "totalBillions": 2.74,
+    "countriesCount": 147,
+    "averagePerCountry": 18.62,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 681.3
+      },
+      {
+        "country": "China",
+        "value": 248.3
+      },
+      {
+        "country": "Indonesia",
+        "value": 200.7
+      },
+      {
+        "country": "Nigeria",
+        "value": 177.8
+      },
+      {
+        "country": "Pakistan",
+        "value": 157.2
+      }
+    ],
+    "top5Percentage": 53.54
+  },
+  {
+    "year": 2023,
+    "totalMillions": 2654.0,
+    "totalBillions": 2.65,
+    "countriesCount": 147,
+    "averagePerCountry": 18.05,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 619.9
+      },
+      {
+        "country": "China",
+        "value": 205.9
+      },
+      {
+        "country": "Indonesia",
+        "value": 201.4
+      },
+      {
+        "country": "Nigeria",
+        "value": 184.3
+      },
+      {
+        "country": "Pakistan",
+        "value": 166.3
+      }
+    ],
+    "top5Percentage": 51.91
+  },
+  {
+    "year": 2024,
+    "totalMillions": 2589.2,
+    "totalBillions": 2.59,
+    "countriesCount": 146,
+    "averagePerCountry": 17.73,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 589.2
+      },
+      {
+        "country": "Indonesia",
+        "value": 200.2
+      },
+      {
+        "country": "Nigeria",
+        "value": 189.8
+      },
+      {
+        "country": "China",
+        "value": 183.1
+      },
+      {
+        "country": "Pakistan",
+        "value": 161.7
+      }
+    ],
+    "top5Percentage": 51.14
+  },
+  {
+    "year": 2025,
+    "totalMillions": 2483.0,
+    "totalBillions": 2.48,
+    "countriesCount": 146,
+    "averagePerCountry": 17.01,
+    "top5Countries": [
+      {
+        "country": "India",
+        "value": 520.1
+      },
+      {
+        "country": "Indonesia",
+        "value": 195.9
+      },
+      {
+        "country": "Nigeria",
+        "value": 191.2
+      },
+      {
+        "country": "Pakistan",
+        "value": 160.7
+      },
+      {
+        "country": "China",
+        "value": 160.4
+      }
+    ],
+    "top5Percentage": 49.47
+  }
+]

@@ -1,0 +1,1322 @@
+REF_AREA,REF_AREA_LABEL,INDICATOR,INDICATOR_LABEL,TIME_PERIOD,OBS_VALUE,UNIT_MEASURE,UNIT_MEASURE_LABEL,UNIT_MULT,UNIT_MULT_LABEL,OBS_STATUS_LABEL,OBS_CONF_LABEL
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.8,PS,Persons,6,Millions,Normal value,Public
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.6,PS,Persons,6,Millions,Normal value,Public
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.5,PS,Persons,6,Millions,Normal value,Public
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.5,PS,Persons,6,Millions,Normal value,Public
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.5,PS,Persons,6,Millions,Normal value,Public
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.4,PS,Persons,6,Millions,Normal value,Public
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.4,PS,Persons,6,Millions,Normal value,Public
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.4,PS,Persons,6,Millions,Normal value,Public
+ALB,Albania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.3,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,17.2,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,17.2,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,17.4,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,19.0,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,19.2,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,19.7,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,20.1,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,19.6,PS,Persons,6,Millions,Normal value,Public
+DZA,Algeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,18.4,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,18.2,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,20.3,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,21.6,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,23.3,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,24.5,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,25.4,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,26.4,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,27.4,PS,Persons,6,Millions,Normal value,Public
+AGO,Angola,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,28.4,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.5,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.5,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.6,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.6,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.6,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.6,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.7,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.4,PS,Persons,6,Millions,Normal value,Public
+ARM,Armenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.3,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.9,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.9,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.0,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.0,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.9,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.9,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.8,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.9,PS,Persons,6,Millions,Normal value,Public
+AUS,Australia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.9,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.2,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.2,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.2,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.2,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.2,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.3,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.3,PS,Persons,6,Millions,Normal value,Public
+AUT,Austria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.3,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.2,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+AZE,Azerbaijan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,101.8,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,95.6,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,90.8,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,85.9,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,79.2,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,73.4,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,71.1,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,70.0,PS,Persons,6,Millions,Normal value,Public
+BGD,Bangladesh,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,67.8,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.4,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.3,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.3,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.2,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+BLR,Belarus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.3,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.2,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.2,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+BEL,Belgium,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+BLZ,Belize,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,9.6,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,8.8,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,8.3,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,8.3,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,8.3,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,8.1,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,7.9,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,7.8,PS,Persons,6,Millions,Normal value,Public
+BEN,Benin,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,7.9,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.2,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.2,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.0,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+BTN,Bhutan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.6,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.5,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.1,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.3,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.1,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.2,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.1,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.2,PS,Persons,6,Millions,Normal value,Public
+BOL,Bolivia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.3,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.6,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.6,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.5,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.5,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.5,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.5,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.4,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.4,PS,Persons,6,Millions,Normal value,Public
+BIH,Bosnia and Herzegovina,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.4,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.4,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.4,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.4,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.4,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.4,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.4,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.5,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.5,PS,Persons,6,Millions,Normal value,Public
+BWA,Botswana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.5,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,58.9,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,57.1,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,56.6,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,43.5,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,65.3,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,55.5,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,50.9,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,45.4,PS,Persons,6,Millions,Normal value,Public
+BRA,Brazil,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,44.8,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,3.7,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,3.0,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.8,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,2.4,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.4,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.9,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.7,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.6,PS,Persons,6,Millions,Normal value,Public
+BGR,Bulgaria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.4,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,13.6,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,13.4,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,13.1,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,13.6,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,13.8,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,15.0,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,15.0,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,15.3,PS,Persons,6,Millions,Normal value,Public
+BFA,Burkina Faso,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,15.8,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,10.4,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,10.5,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,10.8,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,11.3,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,11.6,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,12.1,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,12.5,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,12.8,PS,Persons,6,Millions,Normal value,Public
+BDI,Burundi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,13.1,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.3,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.3,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.3,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.3,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.3,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.3,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.3,PS,Persons,6,Millions,Normal value,Public
+CPV,Cabo Verde,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.3,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,12.3,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,12.6,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,12.9,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,13.6,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,14.2,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,14.9,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,15.6,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,16.0,PS,Persons,6,Millions,Normal value,Public
+CMR,Cameroon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,16.5,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.3,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.2,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.1,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.5,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.7,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.1,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.2,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.2,PS,Persons,6,Millions,Normal value,Public
+CAN,Canada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.2,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,4.1,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,4.2,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.2,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,4.3,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,4.5,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.4,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.5,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,4.7,PS,Persons,6,Millions,Normal value,Public
+CAF,Central African Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,4.8,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,10.5,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,10.2,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,9.9,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,10.7,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,11.1,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,11.7,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,12.6,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,13.5,PS,Persons,6,Millions,Normal value,Public
+TCD,Chad,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,14.0,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,9.3,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,9.1,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,9.1,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,10.0,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,8.7,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,8.3,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,8.3,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,7.5,PS,Persons,6,Millions,Normal value,Public
+CHL,Chile,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,7.3,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,406.5,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,353.8,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,326.1,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,354.1,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,236.3,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,248.3,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,205.9,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,183.1,PS,Persons,6,Millions,Normal value,Public
+CHN,China,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,160.4,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,17.7,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,18.0,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,18.8,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,22.7,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,21.1,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,20.6,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,20.5,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,19.3,PS,Persons,6,Millions,Normal value,Public
+COL,Colombia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,19.2,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.4,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.4,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.4,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.4,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.4,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.4,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.4,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.4,PS,Persons,6,Millions,Normal value,Public
+COM,Comoros,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.4,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,83.4,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,84.4,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,86.7,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,90.0,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,92.4,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,94.7,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,96.8,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,99.2,PS,Persons,6,Millions,Normal value,Public
+COD,"Congo, Dem. Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,101.7,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,3.9,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,4.1,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.1,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,4.4,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,4.5,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.7,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.8,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,4.9,PS,Persons,6,Millions,Normal value,Public
+COG,"Congo, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,5.0,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.6,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,2.7,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.7,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,3.1,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.8,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.9,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.7,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.4,PS,Persons,6,Millions,Normal value,Public
+CRI,Costa Rica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.2,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,15.1,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,14.3,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,13.2,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,14.4,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,15.0,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,15.5,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,15.6,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,15.5,PS,Persons,6,Millions,Normal value,Public
+CIV,Cote d'Ivoire,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,15.2,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.3,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.1,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.9,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.9,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.7,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.7,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.6,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.5,PS,Persons,6,Millions,Normal value,Public
+HRV,Croatia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.5,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.0,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.0,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.0,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.0,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.0,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+CYP,Cyprus,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.6,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.5,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.4,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.5,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.4,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.6,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.7,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.7,PS,Persons,6,Millions,Normal value,Public
+CZE,Czechia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.6,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+DNK,Denmark,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.6,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.6,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.6,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.6,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.6,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.6,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.6,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.6,PS,Persons,6,Millions,Normal value,Public
+DJI,Djibouti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.6,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.8,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,2.4,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.3,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,2.7,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.8,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.7,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.3,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.9,PS,Persons,6,Millions,Normal value,Public
+DOM,Dominican Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.9,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,4.0,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,4.2,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.4,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,5.4,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,4.9,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.7,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.8,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,5.2,PS,Persons,6,Millions,Normal value,Public
+ECU,Ecuador,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,4.7,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,41.7,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,43.7,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,39.5,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,33.9,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,31.2,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,34.5,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,48.9,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,52.9,PS,Persons,6,Millions,Normal value,Public
+EGY,"Egypt, Arab Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,45.5,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.9,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.9,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.9,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.0,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.1,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.1,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.1,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.2,PS,Persons,6,Millions,Normal value,Public
+GNQ,Equatorial Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.2,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.2,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.2,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.2,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+EST,Estonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.8,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.8,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.8,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.8,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.8,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.8,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.9,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.9,PS,Persons,6,Millions,Normal value,Public
+SWZ,Eswatini,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.9,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,72.0,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,73.6,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,78.6,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,84.3,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,91.3,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,93.4,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,93.0,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,93.6,PS,Persons,6,Millions,Normal value,Public
+ETH,Ethiopia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,92.0,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.5,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.5,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.5,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.6,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.6,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.6,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.6,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.6,PS,Persons,6,Millions,Normal value,Public
+FJI,Fiji,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.5,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.0,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+FIN,Finland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.5,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.6,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.5,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,2.1,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.4,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.3,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.4,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.4,PS,Persons,6,Millions,Normal value,Public
+FRA,France,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.4,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.7,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.7,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.8,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.8,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.9,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.9,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.0,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.0,PS,Persons,6,Millions,Normal value,Public
+GAB,Gabon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.0,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.0,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.0,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.0,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.1,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.2,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.2,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.2,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.2,PS,Persons,6,Millions,Normal value,Public
+GMB,"Gambia, The",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.2,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.3,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,2.0,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.2,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,2.1,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,3.0,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.2,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.4,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,4.5,PS,Persons,6,Millions,Normal value,Public
+DEU,Germany,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,4.5,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,20.2,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,20.2,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,20.3,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,20.9,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,21.1,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,21.5,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,22.4,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,22.6,PS,Persons,6,Millions,Normal value,Public
+GHA,Ghana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,23.1,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,3.8,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,3.6,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,3.0,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,3.1,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.7,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.7,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.5,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.4,PS,Persons,6,Millions,Normal value,Public
+GRC,Greece,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.3,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.0,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.0,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.0,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.0,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.0,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.0,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+GRD,Grenada,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,7.5,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,7.8,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,8.1,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,8.8,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,8.6,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,8.8,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,9.1,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,8.9,PS,Persons,6,Millions,Normal value,Public
+GTM,Guatemala,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,8.8,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,5.8,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,5.9,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,5.9,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,6.1,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,6.2,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,6.5,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,7.0,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,7.4,PS,Persons,6,Millions,Normal value,Public
+GIN,Guinea,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,7.6,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.3,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.3,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.2,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.3,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.4,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.4,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.4,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.4,PS,Persons,6,Millions,Normal value,Public
+GNB,Guinea-Bissau,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.5,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.6,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.6,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.6,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.5,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.4,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.2,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+GUY,Guyana,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,8.4,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,8.6,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,8.8,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,9.2,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,9.4,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,9.6,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,9.8,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,10.3,PS,Persons,6,Millions,Normal value,Public
+HTI,Haiti,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,10.6,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,3.9,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,3.9,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,3.9,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,4.5,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,4.1,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.1,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.2,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,3.8,PS,Persons,6,Millions,Normal value,Public
+HND,Honduras,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,3.8,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,4.0,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,3.7,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,3.3,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,3.4,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,3.1,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.9,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,3.0,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.9,PS,Persons,6,Millions,Normal value,Public
+HUN,Hungary,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.9,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.0,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.0,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.0,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.0,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.0,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.0,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+ISL,Iceland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,813.1,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,759.2,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,734.4,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,788.2,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,740.6,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,681.3,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,619.9,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,589.2,PS,Persons,6,Millions,Normal value,Public
+IND,India,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,520.1,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,198.9,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,193.5,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,192.1,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,193.0,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,192.8,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,200.7,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,201.4,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,200.2,PS,Persons,6,Millions,Normal value,Public
+IDN,Indonesia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,195.9,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,25.4,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,28.1,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,35.9,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,36.7,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,35.8,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,35.4,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,34.9,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,32.7,PS,Persons,6,Millions,Normal value,Public
+IRN,"Iran, Islamic Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,34.5,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,9.2,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,9.2,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,8.6,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,11.5,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,11.6,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,10.8,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,11.4,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,12.5,PS,Persons,6,Millions,Normal value,Public
+IRQ,Iraq,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,13.2,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.2,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+IRL,Ireland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.9,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.8,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.9,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.9,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.9,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.9,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.1,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.1,PS,Persons,6,Millions,Normal value,Public
+ISR,Israel,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.1,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,6.7,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,6.3,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,5.5,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,5.7,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,5.1,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.3,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,5.1,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,5.0,PS,Persons,6,Millions,Normal value,Public
+ITA,Italy,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,4.9,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.9,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.6,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.7,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.8,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.8,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.8,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.8,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.8,PS,Persons,6,Millions,Normal value,Public
+JAM,Jamaica,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.7,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,17.4,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,21.2,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,20.4,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,18.7,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,17.8,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,16.8,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,16.5,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,16.4,PS,Persons,6,Millions,Normal value,Public
+JPN,Japan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,16.2,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.3,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.3,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.3,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.3,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.3,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.3,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.3,PS,Persons,6,Millions,Normal value,Public
+JOR,Jordan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.3,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.1,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.5,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.7,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.6,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.3,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.2,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.0,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.8,PS,Persons,6,Millions,Normal value,Public
+KAZ,Kazakhstan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.7,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,34.3,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,35.1,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,36.9,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,39.8,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,41.5,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,42.2,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,42.6,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,43.1,PS,Persons,6,Millions,Normal value,Public
+KEN,Kenya,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,43.9,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,6.3,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,5.3,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.3,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,3.5,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,3.4,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,3.0,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.9,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.8,PS,Persons,6,Millions,Normal value,Public
+KOR,"Korea, Rep.",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.8,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.9,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,2.5,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.4,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,3.1,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.9,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.8,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.3,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.8,PS,Persons,6,Millions,Normal value,Public
+KGZ,Kyrgyz Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.6,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,4.2,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,4.2,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.1,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,4.3,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,4.2,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.1,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.2,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,4.0,PS,Persons,6,Millions,Normal value,Public
+LAO,Lao PDR,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,3.9,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.6,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.5,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.4,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.4,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.4,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.3,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.3,PS,Persons,6,Millions,Normal value,Public
+LVA,Latvia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.3,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.0,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.0,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.0,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.2,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.3,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.1,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.6,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.6,PS,Persons,6,Millions,Normal value,Public
+LBN,Lebanon,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.7,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.5,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.6,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.6,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.7,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.7,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.7,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.8,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.8,PS,Persons,6,Millions,Normal value,Public
+LSO,Lesotho,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.8,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,3.2,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,3.2,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,3.4,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,3.6,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,3.5,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,3.3,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,3.3,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,3.5,PS,Persons,6,Millions,Normal value,Public
+LBR,Liberia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,3.4,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.7,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.5,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.4,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.3,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.4,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.4,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.4,PS,Persons,6,Millions,Normal value,Public
+LTU,Lithuania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.3,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.0,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.0,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.0,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.0,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.0,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.0,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+LUX,Luxembourg,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,22.1,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,22.8,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,23.4,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,24.7,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,25.4,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,26.1,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,26.8,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,27.3,PS,Persons,6,Millions,Normal value,Public
+MDG,Madagascar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,27.9,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,15.4,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,16.0,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,16.7,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,17.4,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,17.8,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,18.5,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,19.2,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,19.9,PS,Persons,6,Millions,Normal value,Public
+MWI,Malawi,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,20.6,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.4,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.3,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.0,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.2,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.1,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.7,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.7,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.6,PS,Persons,6,Millions,Normal value,Public
+MYS,Malaysia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.5,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.0,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.0,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.0,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.0,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+MDV,Maldives,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,11.7,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,11.0,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,10.8,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,12.3,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,13.3,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,14.4,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,14.7,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,15.0,PS,Persons,6,Millions,Normal value,Public
+MLI,Mali,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,15.3,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.0,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.0,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.0,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.0,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.0,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.0,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+MLT,Malta,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.1,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,2.2,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.3,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,2.4,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.6,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.7,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.7,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.7,PS,Persons,6,Millions,Normal value,Public
+MRT,Mauritania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.7,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.2,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.2,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.2,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.3,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.3,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.2,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.2,PS,Persons,6,Millions,Normal value,Public
+MUS,Mauritius,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.2,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,39.0,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,37.9,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,37.8,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,41.3,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,35.0,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,32.4,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,28.4,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,26.2,PS,Persons,6,Millions,Normal value,Public
+MEX,Mexico,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,26.4,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.4,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.3,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.3,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.3,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.4,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.5,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.4,PS,Persons,6,Millions,Normal value,Public
+MDA,Moldova,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.3,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.6,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.6,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.5,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.5,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.4,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.3,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.3,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.1,PS,Persons,6,Millions,Normal value,Public
+MNG,Mongolia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.0,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+MNE,Montenegro,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,4.8,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,4.6,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.5,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,5.3,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,4.6,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.9,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,5.3,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,5.0,PS,Persons,6,Millions,Normal value,Public
+MAR,Morocco,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,4.8,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,24.2,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,25.0,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,26.1,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,27.4,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,28.4,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,29.4,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,30.2,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,31.4,PS,Persons,6,Millions,Normal value,Public
+MOZ,Mozambique,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,32.5,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.1,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.2,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.2,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.4,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.4,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.4,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.4,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.4,PS,Persons,6,Millions,Normal value,Public
+NAM,Namibia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.5,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,9.7,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,8.1,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,7.9,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,8.5,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,7.7,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,6.8,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,6.1,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,5.9,PS,Persons,6,Millions,Normal value,Public
+NPL,Nepal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,5.3,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.3,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.3,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.3,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.3,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.2,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.2,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.2,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.2,PS,Persons,6,Millions,Normal value,Public
+NLD,Netherlands,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.2,PS,Persons,6,Millions,Normal value,Public
+NIC,Nicaragua,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.6,PS,Persons,6,Millions,Normal value,Public
+NIC,Nicaragua,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.8,PS,Persons,6,Millions,Normal value,Public
+NIC,Nicaragua,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.9,PS,Persons,6,Millions,Normal value,Public
+NIC,Nicaragua,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,2.0,PS,Persons,6,Millions,Normal value,Public
+NIC,Nicaragua,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.8,PS,Persons,6,Millions,Normal value,Public
+NIC,Nicaragua,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.9,PS,Persons,6,Millions,Normal value,Public
+NIC,Nicaragua,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.8,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,18.6,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,18.8,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,19.3,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,20.3,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,21.5,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,22.0,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,22.9,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,23.4,PS,Persons,6,Millions,Normal value,Public
+NER,Niger,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,24.0,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,137.5,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,142.4,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,146.9,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,162.3,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,171.6,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,177.8,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,184.3,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,189.8,PS,Persons,6,Millions,Normal value,Public
+NGA,Nigeria,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,191.2,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.5,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.4,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.4,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.4,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.3,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.3,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.3,PS,Persons,6,Millions,Normal value,Public
+MKD,North Macedonia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.3,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+NOR,Norway,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,132.4,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,131.6,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,137.7,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,145.9,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,150.0,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,157.2,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,166.3,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,161.7,PS,Persons,6,Millions,Normal value,Public
+PAK,Pakistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,160.7,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.2,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,2.1,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.1,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,2.4,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.4,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,2.4,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.4,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.4,PS,Persons,6,Millions,Normal value,Public
+PAN,Panama,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.4,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.7,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.6,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.6,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.8,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.9,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.9,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.7,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.6,PS,Persons,6,Millions,Normal value,Public
+PRY,Paraguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.6,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,11.3,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,10.6,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,10.2,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,15.1,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,12.4,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,12.3,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,13.0,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,12.3,PS,Persons,6,Millions,Normal value,Public
+PER,Peru,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,12.0,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,53.5,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,52.9,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,52.3,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,59.7,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,59.8,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,57.2,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,56.4,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,54.9,PS,Persons,6,Millions,Normal value,Public
+PHL,Philippines,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,52.6,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,7.6,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,6.7,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.7,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,4.4,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,3.4,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,3.4,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,3.4,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,3.0,PS,Persons,6,Millions,Normal value,Public
+POL,Poland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.8,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.3,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,2.0,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.6,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.7,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.6,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.8,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.6,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.5,PS,Persons,6,Millions,Normal value,Public
+PRT,Portugal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.5,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.5,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.5,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.6,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.0,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.5,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.6,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.5,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.7,PS,Persons,6,Millions,Normal value,Public
+QAT,Qatar,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.7,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,11.0,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,9.8,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,8.5,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,7.0,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,6.0,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,5.4,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.3,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,3.9,PS,Persons,6,Millions,Normal value,Public
+ROU,Romania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,3.8,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,33.4,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,32.0,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,31.0,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,27.1,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,29.4,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,28.4,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,21.6,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,18.5,PS,Persons,6,Millions,Normal value,Public
+RUS,Russian Federation,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,17.8,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,10.0,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,9.7,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,9.6,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,10.3,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,10.0,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,10.2,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,10.7,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,10.3,PS,Persons,6,Millions,Normal value,Public
+RWA,Rwanda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,10.2,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+STP,Sao Tome and Principe,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,8.5,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,7.9,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,7.8,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,8.2,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,8.3,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,8.8,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,8.9,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,8.8,PS,Persons,6,Millions,Normal value,Public
+SEN,Senegal,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,8.6,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.4,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.9,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.4,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.1,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.8,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.0,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.9,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.8,PS,Persons,6,Millions,Normal value,Public
+SRB,Serbia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.7,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.0,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+SYC,Seychelles,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,4.8,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,4.9,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.8,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,5.0,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,5.2,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,5.3,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,5.5,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,5.5,PS,Persons,6,Millions,Normal value,Public
+SLE,Sierra Leone,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,5.5,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.2,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.2,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.0,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.3,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.2,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.5,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.6,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.5,PS,Persons,6,Millions,Normal value,Public
+SVK,Slovak Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.5,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.0,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+SVN,Slovenia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,35.1,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,34.9,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,34.9,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,36.2,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,35.8,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,35.7,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,36.3,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,36.9,PS,Persons,6,Millions,Normal value,Public
+ZAF,South Africa,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,37.5,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,9.4,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,9.2,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,9.6,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,9.9,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,10.1,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,10.3,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,10.6,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,11.4,PS,Persons,6,Millions,Normal value,Public
+SSD,South Sudan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,11.4,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,5.9,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,5.7,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,5.4,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,5.6,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,4.9,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.5,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.8,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,4.6,PS,Persons,6,Millions,Normal value,Public
+ESP,Spain,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,4.5,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,7.1,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,6.5,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,6.4,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,7.6,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,7.7,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,9.2,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,8.9,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,8.4,PS,Persons,6,Millions,Normal value,Public
+LKA,Sri Lanka,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,8.1,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.0,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.0,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.0,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.0,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.0,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.0,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.0,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.0,PS,Persons,6,Millions,Normal value,Public
+LCA,St. Lucia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.0,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.1,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.2,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.2,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.2,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.2,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.2,PS,Persons,6,Millions,Normal value,Public
+SUR,Suriname,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.2,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.4,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.5,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.4,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.4,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.4,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.6,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.5,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.5,PS,Persons,6,Millions,Normal value,Public
+SWE,Sweden,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.5,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.2,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.1,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.1,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.1,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.1,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.1,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.1,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.1,PS,Persons,6,Millions,Normal value,Public
+CHE,Switzerland,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.1,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,11.0,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,8.7,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,8.3,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,15.6,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,15.4,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,15.9,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,17.6,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,18.1,PS,Persons,6,Millions,Normal value,Public
+SYR,Syrian Arab Republic,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,15.6,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.9,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.8,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.6,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.2,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.4,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.2,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.2,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.0,PS,Persons,6,Millions,Normal value,Public
+TWN,"Taiwan, China",FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.9,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,41.6,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,42.6,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,43.4,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,45.0,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,46.2,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,47.7,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,49.2,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,50.1,PS,Persons,6,Millions,Normal value,Public
+TZA,Tanzania,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,51.5,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,4.7,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,4.2,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,4.0,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,4.3,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,4.5,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,4.6,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.5,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,4.5,PS,Persons,6,Millions,Normal value,Public
+TGO,Togo,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,4.6,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.4,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.4,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.4,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.5,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.5,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.5,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.5,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.5,PS,Persons,6,Millions,Normal value,Public
+TTO,Trinidad and Tobago,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.5,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.9,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.9,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.9,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.0,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.9,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.9,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.0,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.1,PS,Persons,6,Millions,Normal value,Public
+TUN,Tunisia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.1,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,12.6,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,11.9,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,12.9,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,12.4,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,11.1,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,10.2,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.8,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,4.0,PS,Persons,6,Millions,Normal value,Public
+TUR,Turkiye,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,3.5,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,31.0,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,31.5,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,32.3,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,33.4,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,34.3,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,35.8,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,37.2,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,37.2,PS,Persons,6,Millions,Normal value,Public
+UGA,Uganda,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,37.8,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.3,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.3,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.3,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.3,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.3,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.2,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.2,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.2,PS,Persons,6,Millions,Normal value,Public
+ARE,United Arab Emirates,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.2,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,2.4,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,2.6,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,2.4,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,2.1,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,2.1,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.9,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,2.0,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,2.0,PS,Persons,6,Millions,Normal value,Public
+GBR,United Kingdom,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.0,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,19.3,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,17.9,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,15.9,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,12.7,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,9.9,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,18.3,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,17.7,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,16.0,PS,Persons,6,Millions,Normal value,Public
+USA,United States,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,15.7,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,1.0,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,1.1,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,1.1,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,1.3,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,1.3,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,1.2,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,1.2,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,1.1,PS,Persons,6,Millions,Normal value,Public
+URY,Uruguay,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,1.1,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,7.3,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,7.0,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,6.6,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,7.2,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,6.8,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,6.0,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,4.9,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,3.8,PS,Persons,6,Millions,Normal value,Public
+UZB,Uzbekistan,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,2.3,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,10.6,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,9.6,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,8.2,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,9.0,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,9.5,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,9.3,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,8.6,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,8.0,PS,Persons,6,Millions,Normal value,Public
+VNM,Viet Nam,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,7.1,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,0.2,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,0.2,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,0.2,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,0.2,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,0.2,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,0.2,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,0.2,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,0.4,PS,Persons,6,Millions,Normal value,Public
+PSE,West Bank and Gaza,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,0.5,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2017,14.4,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2018,14.9,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2019,15.5,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2020,16.3,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2021,16.9,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2022,17.4,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2023,17.9,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2024,18.4,PS,Persons,6,Millions,Normal value,Public
+ZMB,Zambia,FAO_CAHD_7006,Number of people unable to afford a healthy diet (million),2025,18.9,PS,Persons,6,Millions,Normal value,Public

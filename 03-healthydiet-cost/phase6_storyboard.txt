@@ -1,0 +1,346 @@
+====================================================================================================
+PHASE 6: VISUAL CAPITALIST-STYLE STORYBOARD
+====================================================================================================
+
+Video Title: "Who Cannot Afford a Healthy Diet? A Global View (2017-2025)"
+
+Total Duration: 5:00 minutes
+Format: 1920x1080 (Full HD)
+Style: Visual Capitalist dark theme with orange/gold accents
+Target Platform: YouTube
+
+====================================================================================================
+SCENE 1: HOOK
+====================================================================================================
+
+Duration: 0:00 - 0:25 (25 seconds)
+
+Purpose:
+Create immediate curiosity and emotional impact. Establish the scale of the problem.
+
+Visual:
+- Dark background (#1a1a1a)
+- Animated text appearing word by word
+- World map silhouette fading in
+- Glowing orange highlight on affected regions
+
+On-Screen Text:
+[0:00-0:08] "2.5 BILLION PEOPLE"
+[0:08-0:15] "Cannot afford a healthy diet"
+[0:15-0:25] "That's 1 in 3 people on Earth"
+
+Narration Text:
+"Imagine a world where 2.5 billion people—that's one in every three humans—cannot
+afford to eat fruits, vegetables, proteins, and dairy. Not because food doesn't exist,
+but because they simply can't afford it. This is the reality in 2025."
+
+Data Needed:
+- Global total (2025): 2,483 million people
+- World population estimate: ~8 billion
+
+Animation Suggestion:
+- Text fades in with typewriter effect
+- Counter animation from 0 to 2,500,000,000
+- Pulse effect on numbers
+- Map gradually lights up with orange/red glow
+
+====================================================================================================
+SCENE 2: GLOBAL MAP ANIMATION
+====================================================================================================
+
+Duration: 0:25 - 1:30 (65 seconds)
+
+Purpose:
+Show how the issue evolves across the world over 9 years. Highlight geographic patterns.
+
+Visual:
+- Animated choropleth map transitioning through years 2017-2025
+- Countries colored by intensity (white → yellow → orange → red)
+- Year display in top-left corner
+- Global total counter in top-right corner
+- Smooth transitions between years
+
+On-Screen Text:
+[0:25] "2017: 2.9 Billion"
+[0:30] "2018: 2.8 Billion"
+[0:35] "2019: 2.8 Billion"
+[0:40] "2020: 2.9 Billion" + annotation "COVID-19 Impact"
+[0:50] "2021: 2.8 Billion"
+[1:00] "2022-2025: Gradual decline"
+[1:25] "2025: 2.5 Billion"
+
+Narration Text:
+"Let's travel back to 2017. Nearly 3 billion people struggled to afford healthy food.
+Watch as this number shifts year by year. Notice 2020—COVID-19 reversed years of
+progress overnight. But recovery began. By 2025, we see improvement, but the challenge
+remains enormous. India, Indonesia, Nigeria, Pakistan, and China—these five nations
+alone account for nearly half of all affected people."
+
+Data Needed:
+- All 9 map images (output/maps/map_2017.png through map_2025.png)
+- Yearly global totals from global_stats_yearly.json
+
+Animation Suggestion:
+- Crossfade between map images (5 seconds per year)
+- Zoom-in effect on hotspot regions (South Asia, Sub-Saharan Africa)
+- Pulsing effect on top 5 countries
+- Smooth counter animation for global totals
+
+====================================================================================================
+SCENE 3: TOP 10 COUNTRIES RANKING
+====================================================================================================
+
+Duration: 1:30 - 2:30 (60 seconds)
+
+Purpose:
+Identify and spotlight the countries with the largest affected populations.
+
+Visual:
+- Horizontal bar chart (racing bars style)
+- Top 10 countries with animated bars
+- Country flags next to names
+- Values displayed on bars
+- Orange gradient colors
+
+On-Screen Text:
+[1:30] "TOP 10 MOST AFFECTED COUNTRIES (2025)"
+[1:35] Show ranking with bars extending:
+  #1 India - 520.1M
+  #2 Indonesia - 195.9M
+  #3 Nigeria - 191.2M
+  #4 Pakistan - 160.7M
+  #5 China - 160.4M
+  #6 DR Congo - 101.7M
+  #7 Ethiopia - 92.0M
+  #8 Bangladesh - 67.8M
+  #9 Philippines - 52.6M
+  #10 Tanzania - 51.5M
+
+[2:20] "These 10 countries = 65% of global total"
+
+Narration Text:
+"Who are the most affected? India leads with 520 million people—that's more than the
+entire population of the European Union. Indonesia and Nigeria follow with nearly
+200 million each. Pakistan and China round out the top five. Together, these ten
+countries account for 65% of everyone on Earth who can't afford healthy food.
+This isn't just a statistic—it's millions of families making impossible choices
+every single day."
+
+Data Needed:
+- yearly_top10.json (2025 data)
+- Percentage calculation (top 10 sum / global total)
+
+Animation Suggestion:
+- Bars grow from left to right with easing
+- Numbers count up beside each bar
+- Subtle country flag icons
+- Highlight top 3 with brighter colors
+
+====================================================================================================
+SCENE 4: REGIONAL PATTERNS & INSIGHTS
+====================================================================================================
+
+Duration: 2:30 - 3:25 (55 seconds)
+
+Purpose:
+Explain WHERE the problem is concentrated and WHY certain regions are affected.
+
+Visual:
+- Split screen: Map on left, data panels on right
+- Regional breakdown pie chart or treemap
+- Callout boxes with key statistics
+- Animated icons (rice bowl, wheat, vegetables)
+
+On-Screen Text:
+[2:30] "WHERE IS THE PROBLEM?"
+
+[2:35] Regional breakdown:
+  "South Asia: 46.7% (1.2 billion)"
+  "Sub-Saharan Africa: 23.8% (590 million)"
+  "East Asia: 6.5%"
+  "Latin America: 4.8%"
+  "Other Regions: 18.2%"
+
+[3:00] "WHY THESE REGIONS?"
+  - High poverty rates
+  - Large populations
+  - Food price volatility
+  - Limited purchasing power
+
+Narration Text:
+"Geography matters. Nearly half of all affected people live in South Asia—India,
+Pakistan, and Bangladesh. Sub-Saharan Africa accounts for another quarter, with
+Nigeria and Ethiopia leading. These aren't coincidences. These regions share common
+challenges: high poverty rates, massive populations, volatile food prices, and limited
+economic opportunities. A healthy diet might cost $3-5 per day, but millions earn
+less than $2 per day total."
+
+Data Needed:
+- Regional aggregations from df
+- Percentage calculations by region
+- Poverty rate context (external/annotation)
+
+Animation Suggestion:
+- Map zoom into South Asia, then Africa
+- Animated percentage rings filling up
+- Icon animations (money, food basket, population)
+- Smooth transitions between stat cards
+
+====================================================================================================
+SCENE 5: COUNTRY SPOTLIGHT (Success & Struggles)
+====================================================================================================
+
+Duration: 3:25 - 4:25 (60 seconds)
+
+Purpose:
+Tell the human story through specific country trends—both successes and setbacks.
+
+Visual:
+- Line chart showing trends for 7 countries (2017-2025)
+- Split into two groups: Improvers vs. Deteriorators
+- Color-coded lines (green for improvement, red for deterioration)
+- Annotations for key events
+
+On-Screen Text:
+[3:25] "COUNTRY SPOTLIGHT: WHO'S WINNING & WHO'S STRUGGLING?"
+
+[3:30] SUCCESS STORIES (Green lines):
+  India: -293M (-36%)
+  China: -246M (-61%)
+  Bangladesh: -34M (-33%)
+
+[3:50] GROWING CHALLENGES (Red lines):
+  Nigeria: +54M (+39%)
+  Pakistan: +28M (+21%)
+  Ethiopia: +20M (+28%)
+
+[4:10] DEVELOPED NATIONS:
+  USA: 15.7M (relatively stable)
+  Germany: 4.5M (slight increase)
+
+Narration Text:
+"Not every country is moving in the same direction. India and China—success stories.
+India cut its affected population by 36%, lifting 293 million people toward food
+security. China's progress is even more dramatic: a 61% reduction. But Nigeria tells
+a different story. Population growth and economic challenges pushed their numbers UP
+by 54 million. Pakistan and Ethiopia face similar struggles. Even in wealthy nations
+like the U.S. and Germany, millions still can't afford healthy diets—a reminder that
+this isn't just a developing world problem."
+
+Data Needed:
+- selected_countries_timeline.json
+- change_analysis.json
+- Percentage change calculations
+
+Animation Suggestion:
+- Lines draw from left to right
+- Highlight each country as mentioned
+- Popup annotations with key statistics
+- Split-screen: success on left, struggles on right
+
+====================================================================================================
+SCENE 6: FINAL INSIGHTS & CALL TO ACTION
+====================================================================================================
+
+Duration: 4:25 - 5:00 (35 seconds)
+
+Purpose:
+Summarize key takeaways and end with impact message. Leave viewers informed and motivated.
+
+Visual:
+- Three animated cards with key takeaways
+- Background: faded world map with orange glow
+- Clean typography, Visual Capitalist style
+- Fade to source citation and channel branding
+
+On-Screen Text:
+[4:25] "3 KEY TAKEAWAYS"
+
+[4:30] CARD 1:
+"2.5 BILLION PEOPLE
+Still cannot afford a healthy diet in 2025
+That's 1 in 3 humans"
+
+[4:40] CARD 2:
+"PROGRESS IS POSSIBLE
+India & China lifted 539M people
+But Nigeria & Pakistan moved backward"
+
+[4:50] CARD 3:
+"THE HIDDEN CRISIS
+Not starvation, but malnutrition
+Missing fruits, vegetables, proteins, dairy"
+
+[4:58] "Data Source: FAO / World Bank Data360 CoAHD"
+[5:00] Channel outro
+
+Narration Text:
+"Three things to remember. First: 2.5 billion people is still a staggering number—
+equivalent to the combined populations of India, Indonesia, and the United States.
+Second: progress IS possible. India and China have shown what economic growth and
+policy can achieve. Third: this is a hidden crisis. These aren't people starving—
+they're eating. But they're missing the fruits, vegetables, proteins, and dairy
+needed for healthy lives. Affordable nutrition isn't a luxury. It's a foundation
+for human potential. If you found this insightful, like and subscribe for more
+data stories that matter."
+
+Data Needed:
+- Final statistics summary
+- FAO/World Bank attribution
+- Channel branding assets
+
+Animation Suggestion:
+- Cards flip in one by one
+- Subtle parallax effect on background map
+- Smooth fade transitions
+- End screen with subscribe button animation
+
+====================================================================================================
+PRODUCTION NOTES
+====================================================================================================
+
+Music Suggestions:
+- Scene 1: Dramatic, tension-building (low strings, subtle percussion)
+- Scene 2-4: Informative, steady (ambient electronic, mid-tempo)
+- Scene 5: Contrasting (hopeful for success, somber for struggles)
+- Scene 6: Uplifting resolution (building to positive close)
+
+Voiceover Style:
+- Professional, authoritative but accessible
+- Clear enunciation, moderate pace (~150 words/minute)
+- Emotional inflection on key statistics
+- Pause for visual impact on big numbers
+
+Transitions:
+- Smooth crossfades (0.5-1 second)
+- Data-driven wipes (numbers morphing)
+- Map zoom transitions between scenes
+- Minimal hard cuts
+
+Color Psychology:
+- Red/Orange: Urgency, heat, concentration
+- Yellow/Gold: Hope, improvement, attention
+- Green: Success, positive change
+- Dark background: Focus, seriousness, premium feel
+
+Typography:
+- Titles: Bold, sans-serif, 48-72pt
+- Body text: Clean, readable, 24-36pt
+- Numbers: Large, impactful, 60-120pt
+- Source: Small, unobtrusive, 16-20pt
+
+Pacing:
+- Fast hook (grab attention in 5 seconds)
+- Moderate body (allow data absorption)
+- Strong close (memorable takeaway)
+
+====================================================================================================
+PHASE 6 COMPLETE - STORYBOARD
+====================================================================================================
+
+Total scenes: 6
+Total duration: 5:00 minutes
+Target audience: Data enthusiasts, global affairs followers, general public
+Engagement goal: 70%+ retention, high share rate
+
+This storyboard provides a complete blueprint for video production!
