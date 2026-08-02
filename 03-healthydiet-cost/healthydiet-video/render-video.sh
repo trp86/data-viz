@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ################################################################################
-# Data Visual Chronicle - Video Renderer
-# Automated video rendering script for MacBook
+# Data Visual Chronicle - Complete Video Renderer
+# Automated data processing and video rendering script for MacBook
 ################################################################################
 
 # Colors for output
@@ -18,6 +18,8 @@ NC='\033[0m' # No Color
 VIDEO_NAME="healthy-diet-video"
 OUTPUT_DIR="out"
 COMPOSITION="VideoComposition"
+PARENT_DIR=".."
+VENV_DIR="$PARENT_DIR/venv"
 
 ################################################################################
 # Helper Functions
@@ -64,6 +66,15 @@ check_prerequisites() {
 
     local all_good=true
 
+    # Check Python
+    if command -v python3 &> /dev/null; then
+        PYTHON_VERSION=$(python3 --version)
+        print_success "Python installed: $PYTHON_VERSION"
+    else
+        print_warning "Python3 is not installed (optional for data processing)"
+        echo "  Install with: brew install python3"
+    fi
+
     # Check Node.js
     if command -v node &> /dev/null; then
         NODE_VERSION=$(node --version)
@@ -100,14 +111,13 @@ check_prerequisites() {
         all_good=false
     fi
 
-    echo ""
-
     if [ "$all_good" = false ]; then
         print_error "Prerequisites not met. Please install missing dependencies."
         echo ""
         print_info "Quick install commands:"
         echo "  brew install node"
         echo "  brew install ffmpeg"
+        echo "  brew install python3  # optional for data processing"
         echo ""
         exit 1
     fi
@@ -117,52 +127,155 @@ check_prerequisites() {
 }
 
 ################################################################################
-# Install Dependencies
+# Python Virtual Environment Setup
 ################################################################################
 
-install_dependencies() {
-    print_step "Checking Node.js dependencies..."
+setup_python_venv() {
+    print_step "Checking Python virtual environment..."
     echo ""
 
-    if [ -d "node_modules" ]; then
-        print_info "node_modules directory exists"
-        read -p "Do you want to reinstall dependencies? (y/N): " -n 1 -r
-        echo ""
-        if [[ $REPLY =~ ^[Yy]$ ]]; then
-            print_info "Removing old node_modules..."
-            rm -rf node_modules package-lock.json
-            print_step "Installing dependencies (this may take 2-5 minutes)..."
-            npm install
-        else
-            print_success "Using existing dependencies"
-        fi
-    else
-        print_step "Installing dependencies (this may take 2-5 minutes)..."
-        npm install
+    # Check if Python is available
+    if ! command -v python3 &> /dev/null; then
+        print_warning "Python3 not found, skipping virtual environment setup"
+        return 0
     fi
 
-    if [ $? -eq 0 ]; then
-        print_success "Dependencies installed successfully!"
+    # Check if venv exists
+    if [ -d "$VENV_DIR" ]; then
+        print_success "Python virtual environment exists at: $VENV_DIR"
+
+        # Activate virtual environment
+        print_info "Activating virtual environment..."
+        source "$VENV_DIR/bin/activate"
+
+        if [ $? -eq 0 ]; then
+            print_success "Virtual environment activated"
+            PYTHON_VENV_ACTIVE=true
+        else
+            print_warning "Failed to activate virtual environment"
+            PYTHON_VENV_ACTIVE=false
+        fi
     else
-        print_error "Failed to install dependencies"
-        exit 1
+        print_info "Virtual environment not found at: $VENV_DIR"
+        echo ""
+        read -p "Do you want to create Python virtual environment for data processing? (y/N): " -n 1 -r
+        echo ""
+
+        if [[ $REPLY =~ ^[Yy]$ ]]; then
+            print_step "Creating Python virtual environment..."
+            cd "$PARENT_DIR"
+            python3 -m venv venv
+
+            if [ $? -eq 0 ]; then
+                print_success "Virtual environment created successfully at: $VENV_DIR"
+
+                # Activate it
+                source venv/bin/activate
+                PYTHON_VENV_ACTIVE=true
+
+                # Upgrade pip first
+                print_info "Upgrading pip..."
+                pip install --upgrade pip
+
+                # Install requirements if they exist
+                if [ -f "requirements.txt" ]; then
+                    print_step "Installing Python dependencies from requirements.txt..."
+                    pip install -r requirements.txt
+                    print_success "Python dependencies installed"
+                else
+                    print_info "No requirements.txt found. Installing common data science packages..."
+                    pip install pandas plotly kaleido openpyxl
+                    print_success "Core packages installed (pandas, plotly, kaleido, openpyxl)"
+                fi
+            else
+                print_error "Failed to create virtual environment"
+                PYTHON_VENV_ACTIVE=false
+            fi
+
+            cd - > /dev/null
+        else
+            print_info "Skipping virtual environment creation"
+            PYTHON_VENV_ACTIVE=false
+        fi
     fi
+
     echo ""
 }
 
 ################################################################################
-# Create Output Directory
+# Install Dependencies
+################################################################################
+
+install_dependencies() {
+    print_step "Checking npm dependencies..."
+    echo ""
+
+    if [ ! -d "node_modules" ]; then
+        print_info "Dependencies not found. Installing..."
+        echo ""
+        npm install
+
+        if [ $? -eq 0 ]; then
+            print_success "Dependencies installed successfully"
+        else
+            print_error "Failed to install dependencies"
+            exit 1
+        fi
+    else
+        print_success "Dependencies already installed"
+    fi
+
+    echo ""
+}
+
+################################################################################
+# Stop Any Running Servers
+################################################################################
+
+stop_running_servers() {
+    print_step "Checking for running processes on port 3000..."
+    echo ""
+
+    # Try to find process on port 3000
+    if lsof -ti:3000 > /dev/null 2>&1; then
+        print_warning "Found process running on port 3000"
+        print_info "Stopping process..."
+        lsof -ti:3000 | xargs kill -9 2>/dev/null
+
+        if [ $? -eq 0 ]; then
+            print_success "Process stopped successfully"
+            sleep 2
+        else
+            print_warning "Could not stop process automatically"
+            echo ""
+            read -p "Continue anyway? (y/N): " -n 1 -r
+            echo ""
+            if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+                exit 1
+            fi
+        fi
+    else
+        print_success "Port 3000 is available"
+    fi
+
+    echo ""
+}
+
+################################################################################
+# Setup Output Directory
 ################################################################################
 
 setup_output_directory() {
     print_step "Setting up output directory..."
+    echo ""
 
     if [ ! -d "$OUTPUT_DIR" ]; then
         mkdir -p "$OUTPUT_DIR"
-        print_success "Created output directory: $OUTPUT_DIR/"
+        print_success "Output directory created: $OUTPUT_DIR/"
     else
         print_success "Output directory exists: $OUTPUT_DIR/"
     fi
+
     echo ""
 }
 
@@ -174,45 +287,44 @@ render_video() {
     print_step "Starting video render..."
     echo ""
 
-    print_info "Composition: $COMPOSITION"
-    print_info "Output: $OUTPUT_DIR/${VIDEO_NAME}.mp4"
-    print_info "Duration: 4:00 minutes (7,200 frames)"
-    print_info "Resolution: 1920x1080 (Full HD)"
-    print_info "Codec: H.264"
+    print_info "Configuration:"
+    echo "  • Video name: $VIDEO_NAME.mp4"
+    echo "  • Output directory: $OUTPUT_DIR/"
+    echo "  • Composition: $COMPOSITION"
+    echo "  • Duration: 4:00 minutes"
+    echo "  • Resolution: 1920x1080 (Full HD)"
+    echo "  • Codec: H.264"
     echo ""
 
     # Detect CPU cores for optimal concurrency
-    CPU_CORES=$(sysctl -n hw.ncpu 2>/dev/null || echo "4")
-    CONCURRENCY=$((CPU_CORES / 2))
-    if [ $CONCURRENCY -lt 1 ]; then
-        CONCURRENCY=1
+    if [[ "$OSTYPE" == "darwin"* ]]; then
+        CPU_CORES=$(sysctl -n hw.ncpu)
+    else
+        CPU_CORES=$(nproc 2>/dev/null || echo "4")
     fi
+
+    CONCURRENCY=$((CPU_CORES > 2 ? CPU_CORES - 1 : CPU_CORES))
 
     print_info "Detected $CPU_CORES CPU cores, using concurrency: $CONCURRENCY"
     echo ""
 
-    print_warning "This will take approximately 20-60 minutes depending on your Mac."
-    print_info "Please keep your Mac plugged in and don't close the terminal."
+    print_warning "This will take 20-60 minutes depending on your Mac model"
+    print_info "M1/M2/M3 Mac: ~20-30 minutes"
+    print_info "Intel Mac: ~40-60 minutes"
     echo ""
 
-    read -p "Press ENTER to start rendering (or Ctrl+C to cancel)..."
-    echo ""
-
-    print_step "Rendering video... (you can monitor progress below)"
-    echo ""
-
-    # Start timer
+    # Record start time
     START_TIME=$(date +%s)
 
-    # Render the video
-    npx remotion render $COMPOSITION "$OUTPUT_DIR/${VIDEO_NAME}.mp4" \
+    # Run the render command
+    npx remotion render "$COMPOSITION" "$OUTPUT_DIR/$VIDEO_NAME.mp4" \
         --codec h264 \
-        --concurrency $CONCURRENCY \
-        --overwrite
+        --overwrite \
+        --concurrency "$CONCURRENCY"
 
     RENDER_EXIT_CODE=$?
 
-    # End timer
+    # Record end time
     END_TIME=$(date +%s)
     DURATION=$((END_TIME - START_TIME))
     MINUTES=$((DURATION / 60))
@@ -224,12 +336,12 @@ render_video() {
         print_success "Video rendered successfully!"
         echo ""
         print_info "Render time: ${MINUTES}m ${SECONDS}s"
-        print_info "Output file: $OUTPUT_DIR/${VIDEO_NAME}.mp4"
 
         # Get file size
-        if [ -f "$OUTPUT_DIR/${VIDEO_NAME}.mp4" ]; then
-            FILE_SIZE=$(du -h "$OUTPUT_DIR/${VIDEO_NAME}.mp4" | cut -f1)
+        if [ -f "$OUTPUT_DIR/$VIDEO_NAME.mp4" ]; then
+            FILE_SIZE=$(du -h "$OUTPUT_DIR/$VIDEO_NAME.mp4" | cut -f1)
             print_info "File size: $FILE_SIZE"
+            print_info "Location: $OUTPUT_DIR/$VIDEO_NAME.mp4"
         fi
 
         echo ""
@@ -237,11 +349,10 @@ render_video() {
     else
         print_error "Video rendering failed!"
         echo ""
-        print_info "Check the error messages above for details."
         print_info "Common issues:"
-        echo "  - Port 3000 in use (kill with: lsof -ti:3000 | xargs kill -9)"
-        echo "  - Insufficient memory (close other applications)"
-        echo "  - Missing data files (check public/assets/ directory)"
+        echo "  • Out of memory: Try reducing --concurrency"
+        echo "  • Port conflicts: Run ./render-video.sh again"
+        echo "  • Missing assets: Check public/assets/ folder"
         echo ""
         return 1
     fi
@@ -253,90 +364,67 @@ render_video() {
 
 open_video() {
     echo ""
-    read -p "Do you want to open the video now? (Y/n): " -n 1 -r
+    read -p "Do you want to open the video? (Y/n): " -n 1 -r
     echo ""
 
     if [[ ! $REPLY =~ ^[Nn]$ ]]; then
-        if [ -f "$OUTPUT_DIR/${VIDEO_NAME}.mp4" ]; then
-            print_step "Opening video..."
-            open "$OUTPUT_DIR/${VIDEO_NAME}.mp4"
-            print_success "Video opened in default player"
+        if [ -f "$OUTPUT_DIR/$VIDEO_NAME.mp4" ]; then
+            open "$OUTPUT_DIR/$VIDEO_NAME.mp4" 2>/dev/null || xdg-open "$OUTPUT_DIR/$VIDEO_NAME.mp4" 2>/dev/null
+            print_success "Opening video..."
         else
-            print_error "Video file not found: $OUTPUT_DIR/${VIDEO_NAME}.mp4"
+            print_error "Video file not found at $OUTPUT_DIR/$VIDEO_NAME.mp4"
         fi
     fi
 }
 
 ################################################################################
-# Cleanup Function
+# Print Summary
 ################################################################################
 
-cleanup_on_exit() {
+print_summary() {
     echo ""
-    print_warning "Script interrupted. Cleaning up..."
-    exit 130
+    echo -e "${CYAN}"
+    echo "╔════════════════════════════════════════════════════════════════╗"
+    echo "║                                                                ║"
+    echo "║                    ✅  RENDER COMPLETE!                        ║"
+    echo "║                                                                ║"
+    echo "╚════════════════════════════════════════════════════════════════╝"
+    echo -e "${NC}"
+    echo ""
+    print_success "Your 4-minute video is ready!"
+    echo ""
+    print_info "Next steps:"
+    echo "  1. Review the video: $OUTPUT_DIR/$VIDEO_NAME.mp4"
+    echo "  2. Upload to YouTube"
+    echo "  3. Share with the world! 🚀"
+    echo ""
+    print_info "Channel: Data Visual Chronicle"
+    print_info "Tagline: Transforming Data into Stories"
+    echo ""
 }
 
 ################################################################################
-# Main Script
+# Main Execution
 ################################################################################
 
 main() {
-    # Trap Ctrl+C
-    trap cleanup_on_exit INT
-
-    # Clear screen and show header
-    clear
     print_header
 
-    # Run checks and setup
+    # Run all steps
     check_prerequisites
+    setup_python_venv
     install_dependencies
+    stop_running_servers
     setup_output_directory
-
-    # Render video
     render_video
-    RENDER_SUCCESS=$?
 
-    # Show results
-    if [ $RENDER_SUCCESS -eq 0 ]; then
-        echo ""
-        echo -e "${GREEN}"
-        echo "╔════════════════════════════════════════════════════════════════╗"
-        echo "║                                                                ║"
-        echo "║                    ✓ SUCCESS!                                  ║"
-        echo "║                                                                ║"
-        echo "║     Your video is ready at: $OUTPUT_DIR/${VIDEO_NAME}.mp4"
-        echo "║                                                                ║"
-        echo "╚════════════════════════════════════════════════════════════════╝"
-        echo -e "${NC}"
-
-        # Open video
+    # Check if render was successful
+    if [ $? -eq 0 ]; then
+        print_summary
         open_video
-
-        echo ""
-        print_info "Next steps:"
-        echo "  1. Review the video"
-        echo "  2. Upload to YouTube"
-        echo "  3. Share with the world! 🎉"
-        echo ""
     else
         echo ""
-        echo -e "${RED}"
-        echo "╔════════════════════════════════════════════════════════════════╗"
-        echo "║                                                                ║"
-        echo "║                    ✗ FAILED                                    ║"
-        echo "║                                                                ║"
-        echo "║            Video rendering was not successful.                 ║"
-        echo "║                                                                ║"
-        echo "╚════════════════════════════════════════════════════════════════╝"
-        echo -e "${NC}"
-        echo ""
-        print_info "Troubleshooting tips:"
-        echo "  1. Check error messages above"
-        echo "  2. Read MAC_SETUP_GUIDE.md for detailed help"
-        echo "  3. Try running with verbose logging:"
-        echo "     npx remotion render $COMPOSITION $OUTPUT_DIR/${VIDEO_NAME}.mp4 --log=verbose"
+        print_error "Render failed. Please check the errors above."
         echo ""
         exit 1
     fi

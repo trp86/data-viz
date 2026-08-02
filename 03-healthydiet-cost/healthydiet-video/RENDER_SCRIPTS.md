@@ -9,12 +9,19 @@ Two automated scripts to render your video on MacBook - choose based on your pre
 Before running any script, make sure you have:
 
 ```bash
-# Install Node.js
-brew install node
+# Required dependencies
+brew install node       # Node.js (required)
+brew install ffmpeg     # FFmpeg (required)
 
-# Install FFmpeg
-brew install ffmpeg
+# Optional for data processing
+brew install python3    # Python 3 (optional)
 ```
+
+**Python Virtual Environment (Optional):**
+- The script automatically detects Python 3
+- If Python is installed, it will offer to create a virtual environment
+- Virtual environment location: `../venv` (parent directory)
+- Useful for data processing tasks with pandas, plotly, etc.
 
 ---
 
@@ -46,11 +53,14 @@ chmod +x render-video.sh
 
 **What happens:**
 1. Script checks if Node.js, npm, and FFmpeg are installed
-2. Installs npm dependencies if needed
-3. Detects your CPU cores for optimal rendering
-4. Renders the 4-minute video
-5. Shows completion time and file size
-6. Asks if you want to open the video
+2. Detects Python 3 and offers to create virtual environment (optional)
+3. Activates virtual environment and installs Python packages if needed
+4. Installs npm dependencies if needed
+5. Stops any processes running on port 3000
+6. Detects your CPU cores for optimal rendering
+7. Renders the 4-minute video
+8. Shows completion time and file size
+9. Asks if you want to open the video
 
 ---
 
@@ -89,6 +99,7 @@ chmod +x quick-render.sh
 | Feature | render-video.sh | quick-render.sh |
 |---------|----------------|-----------------|
 | Prerequisites check | ✅ | ❌ |
+| Python venv setup | ✅ | ❌ |
 | Detailed feedback | ✅ | ❌ |
 | Error handling | ✅ | Basic |
 | Auto CPU detection | ✅ | Uses default |
@@ -122,6 +133,54 @@ Both scripts create:
 - Plug in to power
 - Close other applications
 - Ensure good ventilation (don't overheat)
+
+---
+
+## 🐍 Python Virtual Environment (New Feature)
+
+The `render-video.sh` script now includes automatic Python virtual environment setup!
+
+### What It Does:
+
+1. **Detects Python 3** on your system
+2. **Checks for existing virtual environment** in parent directory (`../venv`)
+3. **Offers to create new venv** if not found
+4. **Activates the virtual environment** automatically
+5. **Installs Python packages** from `requirements.txt` or defaults to:
+   - `pandas` - Data manipulation
+   - `plotly` - Interactive visualizations
+   - `kaleido` - Static image export
+   - `openpyxl` - Excel file support
+
+### When to Use:
+
+- If you need to process data before rendering
+- If you're working with Python scripts for data visualization
+- If you want isolated Python environment per project
+
+### Manual Setup (if needed):
+
+```bash
+# Create virtual environment manually
+cd ..  # Go to parent directory
+python3 -m venv venv
+
+# Activate it
+source venv/bin/activate
+
+# Install packages
+pip install pandas plotly kaleido openpyxl
+
+# Return to video directory
+cd healthydiet-video
+```
+
+### Benefits:
+
+✅ **Isolated dependencies** - No conflicts with system Python packages  
+✅ **Reproducible environment** - Same packages across machines  
+✅ **Easy cleanup** - Just delete `venv` folder  
+✅ **Optional** - Skip if you don't need Python processing  
 
 ---
 
@@ -270,13 +329,17 @@ npx remotion render VideoComposition out/healthy-diet-video.mp4
 ## 📝 Script Contents
 
 ### render-video.sh includes:
-- Prerequisites checking
+- Prerequisites checking (Node.js, npm, FFmpeg, Python)
+- Python virtual environment setup (optional)
 - Dependency installation
+- Port 3000 conflict resolution
 - Output directory setup
-- Optimized rendering
+- CPU-optimized rendering (auto-detects cores)
 - Progress tracking
+- Render time measurement
+- File size reporting
 - Success/failure reporting
-- Video opening
+- Video opening option
 
 ### quick-render.sh includes:
 - Basic dependency check
