@@ -5,6 +5,9 @@
 # Automated data processing and video rendering script for MacBook
 ################################################################################
 
+# Exit on error (but we'll handle errors gracefully)
+set +e
+
 # Colors for output
 RED='\033[0;31m'
 GREEN='\033[0;32m'
@@ -14,11 +17,14 @@ MAGENTA='\033[0;35m'
 CYAN='\033[0;36m'
 NC='\033[0m' # No Color
 
+# Get script directory and resolve paths
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PARENT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
 # Configuration
 VIDEO_NAME="healthy-diet-video"
 OUTPUT_DIR="out"
 COMPOSITION="VideoComposition"
-PARENT_DIR=".."
 VENV_DIR="$PARENT_DIR/venv"
 
 ################################################################################
@@ -146,13 +152,28 @@ setup_python_venv() {
 
         # Activate virtual environment
         print_info "Activating virtual environment..."
-        source "$VENV_DIR/bin/activate"
 
-        if [ $? -eq 0 ]; then
-            print_success "Virtual environment activated"
-            PYTHON_VENV_ACTIVE=true
+        # Determine activation script path (Windows uses Scripts, Unix uses bin)
+        ACTIVATE_SCRIPT=""
+        if [ -f "$VENV_DIR/Scripts/activate" ]; then
+            ACTIVATE_SCRIPT="$VENV_DIR/Scripts/activate"
+        elif [ -f "$VENV_DIR/bin/activate" ]; then
+            ACTIVATE_SCRIPT="$VENV_DIR/bin/activate"
+        fi
+
+        if [ -n "$ACTIVATE_SCRIPT" ]; then
+            # shellcheck disable=SC1090
+            . "$ACTIVATE_SCRIPT" 2>/dev/null
+
+            if [ $? -eq 0 ] && [ -n "$VIRTUAL_ENV" ]; then
+                print_success "Virtual environment activated"
+                PYTHON_VENV_ACTIVE=true
+            else
+                print_warning "Failed to activate virtual environment"
+                PYTHON_VENV_ACTIVE=false
+            fi
         else
-            print_warning "Failed to activate virtual environment"
+            print_warning "Activation script not found in $VENV_DIR/bin or $VENV_DIR/Scripts"
             PYTHON_VENV_ACTIVE=false
         fi
     else
@@ -163,36 +184,55 @@ setup_python_venv() {
 
         if [[ $REPLY =~ ^[Yy]$ ]]; then
             print_step "Creating Python virtual environment..."
-            cd "$PARENT_DIR"
+
+            # Save current directory
+            ORIGINAL_DIR=$(pwd)
+            cd "$PARENT_DIR" || exit 1
+
             python3 -m venv venv
 
             if [ $? -eq 0 ]; then
                 print_success "Virtual environment created successfully at: $VENV_DIR"
 
+                # Determine activation script path (Windows uses Scripts, Unix uses bin)
+                ACTIVATE_SCRIPT=""
+                if [ -f "venv/Scripts/activate" ]; then
+                    ACTIVATE_SCRIPT="venv/Scripts/activate"
+                elif [ -f "venv/bin/activate" ]; then
+                    ACTIVATE_SCRIPT="venv/bin/activate"
+                fi
+
                 # Activate it
-                source venv/bin/activate
-                PYTHON_VENV_ACTIVE=true
+                if [ -n "$ACTIVATE_SCRIPT" ]; then
+                    # shellcheck disable=SC1091
+                    . "$ACTIVATE_SCRIPT" 2>/dev/null
+                    PYTHON_VENV_ACTIVE=true
 
-                # Upgrade pip first
-                print_info "Upgrading pip..."
-                pip install --upgrade pip
+                    # Upgrade pip first
+                    print_info "Upgrading pip..."
+                    python -m pip install --upgrade pip --quiet
 
-                # Install requirements if they exist
-                if [ -f "requirements.txt" ]; then
-                    print_step "Installing Python dependencies from requirements.txt..."
-                    pip install -r requirements.txt
-                    print_success "Python dependencies installed"
+                    # Install requirements if they exist
+                    if [ -f "requirements.txt" ]; then
+                        print_step "Installing Python dependencies from requirements.txt..."
+                        pip install -r requirements.txt --quiet
+                        print_success "Python dependencies installed"
+                    else
+                        print_info "No requirements.txt found. Installing common data science packages..."
+                        pip install pandas plotly kaleido openpyxl --quiet
+                        print_success "Core packages installed (pandas, plotly, kaleido, openpyxl)"
+                    fi
                 else
-                    print_info "No requirements.txt found. Installing common data science packages..."
-                    pip install pandas plotly kaleido openpyxl
-                    print_success "Core packages installed (pandas, plotly, kaleido, openpyxl)"
+                    print_error "Failed to find activation script"
+                    PYTHON_VENV_ACTIVE=false
                 fi
             else
                 print_error "Failed to create virtual environment"
                 PYTHON_VENV_ACTIVE=false
             fi
 
-            cd - > /dev/null
+            # Return to original directory
+            cd "$ORIGINAL_DIR" || exit 1
         else
             print_info "Skipping virtual environment creation"
             PYTHON_VENV_ACTIVE=false
